@@ -1,0 +1,21 @@
+.container {
+    margin: 0 auto;
+    width: 300px;
+}
+
+.controller {
+    display: flex;
+}
+.left-part-calculator {
+    width: 75%;
+}
+
+.numbers {
+    display: flex;
+    flex-wrap: wrap;
+}
+.operations {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
