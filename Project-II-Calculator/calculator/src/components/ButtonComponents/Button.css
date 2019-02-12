@@ -1,0 +1,23 @@
+.numberButton {
+    background: white;
+    color: black;
+    border: 1px solid gray;
+    width: 33.3%;
+    height: 50px;
+}
+
+.operationButton {
+    background: red;
+    color: black;
+    border: 1px solid grey;
+    height: 50px;
+    
+}
+
+.actionButton {
+    width: 100%;
+    background: white;
+    color: black;
+    border: 1px solid grey;
+    height: 50px;
+}

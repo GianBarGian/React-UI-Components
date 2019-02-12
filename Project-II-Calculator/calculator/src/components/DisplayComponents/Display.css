@@ -1,0 +1,8 @@
+.calculator-display {
+    color: white;
+    background: black;
+    text-align: end;
+    padding: 20px 5px;
+    border: 1px solid gray;
+    margin: 0;
+}
