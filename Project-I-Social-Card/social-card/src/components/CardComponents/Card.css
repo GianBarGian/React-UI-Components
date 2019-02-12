@@ -3,3 +3,16 @@
     height: 500px;
     background-repeat: no-repeat;
 }
+
+.card-container {
+    text-decoration: none;
+    color: black;
+}
+
+.card-container h2 {
+    font-size: 1.2rem;
+}
+
+.card-container span{
+    color: rgb(175, 169, 169);
+}

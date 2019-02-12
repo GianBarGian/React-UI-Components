@@ -1,1 +1,21 @@
-/* All styles for your header Components live here */
+.header-container {
+    display: flex;
+}
+
+.header-container img {
+    height: 50px;
+    padding-top: 15px;
+}
+
+.header-title {
+    display: flex;
+}
+
+.header-title h1 {
+    font-size: 1.2rem;
+}
+
+.header-title p {
+    font-size: 0.9rem;
+    color: rgb(189, 184, 184);
+}
